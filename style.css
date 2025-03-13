@@ -1,0 +1,9 @@
+h1 {
+  color: orange;
+  backound-color: slategray;
+  font-size: 20px;
+  text-decoration: line-through;
+}
+p{
+  color: slategray;
+}
