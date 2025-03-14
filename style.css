@@ -30,4 +30,7 @@ li {
 
 }
 { Backround-image: url("images.jpeg");
+ Backround-position: center;
+ Backround-attachment: fixed;
+ Backround-size: cover;
 }
