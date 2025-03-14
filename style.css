@@ -29,5 +29,5 @@ li {
   text-shadow: 2px 2px lightgray;
 
 }
-{ Backround-image: url(images.jpeg);
+{ Backround-image: url("images.jpeg");
 }
