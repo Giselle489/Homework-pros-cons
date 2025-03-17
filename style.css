@@ -28,8 +28,12 @@ li {
   list-style-type: none;
   text-shadow: 2px 2px lightgray;
 }
-body { 
+ body { 
   Backround-image: url("images.jpeg");
-  Backround-position: center;
-}
+  
+} 
+
+ p { 
+  text-align: center; 
+  color: red; }
 
