@@ -28,7 +28,12 @@ li {
   list-style-type: none;
   text-shadow: 2px 2px lightgray;
 }
- body { Backround-image: url (images.jpeg)
+ body { 
+   Backround-image: url ("images.jpeg");
+   Backround-repeat:no-repeat;
+   Backround-position: center;
+   Backround-attachment: fixed;
+   Backround-size: cover;
   
 } 
 
