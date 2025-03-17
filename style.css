@@ -38,6 +38,7 @@ li {
 } 
 
  p { 
-  text-align: center; 
+  text-align: center;
+  text-decoration: linethrough;
   color: red; }
 
