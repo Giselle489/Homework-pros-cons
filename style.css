@@ -29,11 +29,11 @@ li {
   text-shadow: 2px 2px lightgray;
 }
  body { 
-   Backround-image: url ("backround.jpeg");
-   Backround-repeat:no-repeat;
-   Backround-position: center;
-   Backround-attachment: fixed;
-   Backround-size: cover;
+   Background-image: url ("backround.jpeg");
+   Background-repeat:no-repeat;
+   Background-position: center;
+   Background-attachment: fixed;
+   Background-size: cover;
   
 } 
 
