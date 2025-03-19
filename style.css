@@ -46,4 +46,15 @@ li {
 #The-Third { 
   transform: rotate(180deg);
 } 
+p.a { 
+  font-style: italic;
+  text-color: blue;
+}
+p.b { 
+  font-style: oblique;
+}
+p.c { 
+  font-style: serif;
+}
+     
 
