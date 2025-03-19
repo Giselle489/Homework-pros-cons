@@ -35,8 +35,15 @@ li {
   
 } 
 
- p { 
-  text-align: center;
-  text-decoration: linethrough;
-  color: red; }
+
+{
+.class-1 { 
+  text-decoration: line-through;
+}
+.class-2 { 
+  text-shadow: 4px 4px #ff0000;
+}
+#The-Third { 
+  transform: rotate(180deg);
+} 
 
